@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NY_Tutti_5" size="1.000000 1.415385" />
+    <ImageTarget name="Umschlag_marker" size="1.000000 1.413675" />
+    <ImageTarget name="NY_marker_28" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_29" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_15" size="1.000000 1.415385" />
+    <ImageTarget name="NY_Tutti_11" size="1.000000 1.415385" />
+    <ImageTarget name="NY_Tutti_10" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_31" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_25" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_1" size="1.000000 1.403419" />
+    <ImageTarget name="NY_marker_8" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_41" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_23" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_27" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_40" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_39" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_38" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_16" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_37" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_36" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_7" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_35" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_30" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_26" size="1.000000 0.705983" />
+    <ImageTarget name="NY_marker_9" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_33" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_24" size="1.000000 1.416084" />
+    <ImageTarget name="NY_marker_12" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_22" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_21" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_20" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_19" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_18" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_17" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_14" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_13" size="1.000000 1.415385" />
+    <ImageTarget name="NY_marker_3" size="1.000000 1.415385" />
+    <ImageTarget name="sarah_marker" size="1.000000 1.412903" />
+    <ImageTarget name="NY_marker_2" size="1.000000 1.416129" />
+  </Tracking>
+</QCARConfig>
